@@ -9,7 +9,6 @@
 - 💼 Software Development Engineer with a passion for building scalable systems  
 - 🧠 Strong in **JavaScript, TypeScript, React, Node.js**
 - ⚙️ Experienced with **system design, APIs, and cloud-native applications**
-- 🏋️ Gym enthusiast (because strong code needs a strong core)
 - 📈 Always learning, shipping, and improving
 
 ---
